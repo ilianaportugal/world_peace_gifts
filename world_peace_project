@@ -2,6 +2,10 @@
 
 -- SHOW DATABASES;
 
+-- CREATE DATABASE temp_database;
+
+-- DROP DATABASE temp_database;
+
 -- CREATE DATABASE world_peace;
 
 -- Task 2: Create table -----------------------------------
